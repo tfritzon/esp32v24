@@ -14,7 +14,7 @@ So far, this is a project in it's infancy, but possible features might be:
   * Webserver for configuration
   * RESTful service for runtime control
   * Error handling
-  * Zeroconf with configurable name, to be addressable as <name>.local
+  * Zeroconf with configurable name, to be addressable as _name_.local
 * OTA updates
 * Application API to make it simple to develop a domain specific application.
 * AT command parser to be used from within the connected device
